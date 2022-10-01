@@ -1,0 +1,6 @@
+com/follydev/employeemanager/service/EmployeeService.class
+com/follydev/employeemanager/EmployeemanagerApplication.class
+com/follydev/employeemanager/repository/EmployeeRepository.class
+com/follydev/employeemanager/resource/EmployeeResource.class
+com/follydev/employeemanager/model/Employee.class
+com/follydev/employeemanager/exception/UserNotFoundException.class
